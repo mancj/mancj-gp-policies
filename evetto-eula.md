@@ -1,18 +1,4 @@
-\[data-custom-class='body'\], \[data-custom-class='body'\] \* { background: transparent !important; } \[data-custom-class='title'\], \[data-custom-class='title'\] \* { font-family: Arial !important; font-size: 26px !important; color: #000000 !important; } \[data-custom-class='subtitle'\], \[data-custom-class='subtitle'\] \* { font-family: Arial !important; color: #595959 !important; font-size: 14px !important; } \[data-custom-class='heading\_1'\], \[data-custom-class='heading\_1'\] \* { font-family: Arial !important; font-size: 19px !important; color: #000000 !important; } \[data-custom-class='heading\_2'\], \[data-custom-class='heading\_2'\] \* { font-family: Arial !important; font-size: 17px !important; color: #000000 !important; } \[data-custom-class='body\_text'\], \[data-custom-class='body\_text'\] \* { color: #595959 !important; font-size: 14px !important; font-family: Arial !important; } \[data-custom-class='link'\], \[data-custom-class='link'\] \* { color: #3030F1 !important; font-size: 14px !important; font-family: Arial !important; word-break: break-word !important; }
-
-**END USER LICENSE AGREEMENT**
-
-  
-
-**Last updated** **September 27, 2022**
-
-  
-
-  
-
-  
-
-Evetto is licensed to You (End-User) by Mansur Ekaev, located and registered at Başakşehir mah., ishakpaşa sokak 8, Istanbul, \_\_\_\_\_\_\_\_\_\_ 34480, Turkey ("**Licensor**"), for use only under the terms of this License Agreement.
+Evetto is licensed to You (End-User) by Mansur Ekaev, located and registered at Başakşehir mah., ishakpaşa sokak 8, Istanbul, 34480, Turkey ("**Licensor**"), for use only under the terms of this License Agreement.
 
   
 
@@ -372,6 +358,5 @@ This License Agreement is governed by the laws of Turkey excluding its conflicts
 
 17.1  If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.               17.2  Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing.
 
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
 
 This EULA was created using Termly's [EULA Generator](https://termly.io/products/eula-generator/).
