@@ -54,6 +54,20 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+**Managing Access to Your Google Account**
+
+If you have granted our app access to your Google Account, you can manage or revoke this access at any time. Simply follow these steps:
+
+	1.	Visit the Google Account settings page at https://myaccount.google.com.
+	2.	Navigate to “Security” > “Third-party apps with account access”.
+	3.	Find our app in the list and click “Remove Access” if you no longer wish to share your data with us.
+
+**How Google Helps Users Share Data Safely**
+
+We are committed to following Google’s best practices for ensuring that your data is handled securely. You can learn more about how Google helps protect your data through the following article:
+
+	•	How Google helps users share data safely: https://support.google.com/accounts/answer/3024190
+
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
